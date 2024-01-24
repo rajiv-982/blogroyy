@@ -1,0 +1,84 @@
+/* BlogPost.css */
+
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .blog-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #008080; 
+  }
+  
+  .blog-intro {
+    margin-bottom: 30px;
+  }
+  
+  .blog-section1 {
+    margin-bottom: 30px;
+    /* text-align: right; */
+    /* max-width: 200px; */
+  }
+  
+  .blog-section2 {
+    margin-bottom: 30px;
+
+  }
+  
+  
+  
+  .blog-section1 h2 {
+    font-size: 1.8em;
+    color: #333;
+    text-align: left;
+    margin-bottom: 10px;
+    max-width: 600px;
+    
+  }
+  .blog-section2 h2 {
+    font-size: 1.8em;
+    color: #333;
+    text-align: right;
+    margin-bottom: 10px;
+    max-width: 600px;
+    float: right;
+
+  }
+  
+  .blog-section1 p {
+    float: right;
+    font-size: 1.2em;
+    max-width: 600px;
+    /* text-align: right; */
+  }
+  .blog-section2 p {
+    float: left;
+    font-size: 1.2em;
+    max-width: 600px;
+    /* text-align: right; */
+  }
+  .blog-section p {
+    font-size: 1.2em;
+  }
+  
+  .blog-conclusion {
+    background-color: #f0f0f0; /* Background color for the conclusion section */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  
+  .blog-conclusion h2 {
+    color: #333;
+  }
+  
+  .blog-conclusion p {
+    font-style: italic;
+  }
+  
+  /* Add more styles as needed based on your design preferences */
+  

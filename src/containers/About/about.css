@@ -1,0 +1,53 @@
+/* AboutPage.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .about-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #008080; /* You can change the color as per your preference */
+  }
+  
+  .about-content {
+    margin-bottom: 30px;
+  }
+  
+  .about-team-title {
+    font-size: 2em;
+    margin-top: 30px;
+    color: #008080; /* You can change the color as per your preference */
+  }
+  
+  .about-team {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .team-member {
+    text-align: center;
+    width: 45%;
+  }
+  
+  .team-member-image {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .team-member-name {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .team-member-description {
+    font-size: 1em;
+  }
+  
